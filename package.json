@@ -1,0 +1,10 @@
+{
+  "name": "street-soccer-3d",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Street Soccer 3D with online multiplayer",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" },
+  "dependencies": { "socket.io": "^4.7.5" }
+}
